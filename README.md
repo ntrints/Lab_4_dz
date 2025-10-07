@@ -6,7 +6,8 @@
 
 # Блоксхема
 
-<img width="142" height="1122" alt="flowchart_1759787333862" src="https://github.com/user-attachments/assets/ad36f16a-d94c-4a45-907b-888b29fd487a" />
+<img width="157" height="1281" alt="Диаграмма без названия drawio" src="https://github.com/user-attachments/assets/c57fac97-c992-454e-b80c-946b7c3a8431" />
+
 
 # Реализация программы
 
