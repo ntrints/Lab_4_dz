@@ -22,7 +22,7 @@ void main()
 	scanf("%d", &b);
 	puts("Введите номер третьего игрока");
 	scanf("%d", &c);
-	printf("Условие для счастливой тройки - %d", (a + b + c) % 3);
+	printf("Условие для счастливой тройки - %d", (a + b + c) % 3); //если тройка счастливая, то программа выводит ноль, если нет, то остаток от деленния на 3
 
 
 }
@@ -30,4 +30,5 @@ void main()
 
 # Результат пррграммы
 
-<img width="1100" height="635" alt="image" src="https://github.com/user-attachments/assets/e3258d84-1721-4b63-a421-409fd96c23ad" />
+<img width="920" height="497" alt="image" src="https://github.com/user-attachments/assets/6b49b735-107a-4baf-9ec1-e0436545a16c" />
+
